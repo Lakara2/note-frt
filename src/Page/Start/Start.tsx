@@ -8,7 +8,7 @@ function Start() {
                 <img src={title} alt="title" />
                 <a
                     className="App-link"
-                    href="/LogUser"
+                    href="/Login"
                 >
                     Start Project 1
                 </a>
